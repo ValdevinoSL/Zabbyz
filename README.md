@@ -3,6 +3,7 @@ documentação zabbyz
 
 site de consulta.
 https://www.tecmint.com/install-and-configure-zabbix-agents-on-centos-redhat-and-debian/<br/>
+
 comandos usados.
 1521  sudo apt install -y zabbix-agent<br/>
  1522  dpkg -L zabbix-agent<br/>
